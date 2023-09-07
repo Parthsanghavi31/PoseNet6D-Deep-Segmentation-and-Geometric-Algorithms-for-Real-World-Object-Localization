@@ -30,6 +30,7 @@ Before diving into PoseNet6D, ensure you have the following:
    cmake --build .
 
 ```
+
 ## Licensing
 For licensing details, please refer to the LICENSE file in the project repository.
 
